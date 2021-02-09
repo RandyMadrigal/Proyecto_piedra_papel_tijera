@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>game</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/game/lose.gif</name>
+			<type>1</type>
+			<location>C:/Users/Randy Madrigal/eclipse-workspace/game/lose.gif</location>
+		</link>
+		<link>
+			<name>src/game/tie.gif</name>
+			<type>1</type>
+			<location>C:/Users/Randy Madrigal/eclipse-workspace/game/tie.gif</location>
+		</link>
+		<link>
+			<name>src/game/win.gif</name>
+			<type>1</type>
+			<location>C:/Users/Randy Madrigal/eclipse-workspace/game/win.gif</location>
+		</link>
+	</linkedResources>
+</projectDescription>
